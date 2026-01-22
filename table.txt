@@ -1,0 +1,74 @@
+<html>
+<head>
+<title> Student_Marksheet </title>
+</head>
+<body>
+<center><b><u><font size="20">STUDENT MARKSHEET</font></u></b></center>
+<br>
+<center><b><u><font size="15" color="red">DEPARTMENT:- CS</font></u></b></center>
+<br>
+<center><table border="1"></center>
+<tr>
+<th colspan="5">Marksheet</th>
+</tr>
+<tr>
+<th>Subject</th>
+<th>Max Marks</th>
+<th>Theory</th>
+<th>Practical</th>
+<th>Marks Obtained</th>
+</tr>
+<tr>
+<th>Physics</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Chemistry</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Mathematics</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>English</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Cs 1</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Cs 2</th>
+<td>100</td>
+<td>50</td>
+<td>40</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Total</th>
+<td>600</td>
+<td colspan="3"><center>540</center></td>
+</tr>
+<tr>
+<th>Percentage</th>
+<td colspan="4">90%</td>
+</tr>
+</table>
+</body>
+</html>
