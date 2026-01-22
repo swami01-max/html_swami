@@ -1,0 +1,23 @@
+AIM:
+To create a simple HTML webpage that links one web page to another using the <a> tag.
+Code for Page 1 (index.html):
+<html>
+<head> <title>Home Page</title>
+</head>
+<body Bgcolor=”yellow”>
+<h1>Welcome to My Website</h1>
+<p>Click the link below to go to the next page:</p>
+<a href="page2.html">Go to Page 2</a>
+</body>
+</html>
+Code for Page 2 (page2.html):
+<html>
+<head>
+<title>Page 2</title>
+</head>
+<body Bgcolor=”lightgreen">
+<h1>This is Page 2</h1>
+<p>You came here from the Home Page.</p>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
